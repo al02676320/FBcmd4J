@@ -1,5 +1,5 @@
 # FBcmd4J
-Cliente de Facebook en línea de comando para la evidencia del curso "**Computación en Java CS13303**"
+Cliente de Facebook en línea de comando "**Computación en Java**"
 
 ## Instalación
 **Clonar el repositorio**  
