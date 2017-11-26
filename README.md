@@ -1,13 +1,58 @@
 # FBcmd4J
+Cliente de Facebook en línea de comando para la evidencia del curso "**Computación en Java CS13303**"
 
-Instalación
+## Instalación
+**Clonar el repositorio**  
+```
+git clone https://github.com/al02676320/FBcmd4J.git
+```
 
-Utiliza la tecnología y el lenguaje Java® para instalar y configurar un ambiente de desarrollo eficiente mediante la programación estructurada y orientada a objetos, integrando diferentes tecnologías que le sean relevantes.
- 
-Uso - Evidencia 1 COMPUTACION EN JAVA
+**Importar a Eclipse**  
+1. Dar clic en `File -> Import -> Existing Projects into Workspace`.
+2. Seleccionar la carpeta raíz donde se clonó el proyecto.
 
-Crear un cliente de Facebook en línea de comando en Java con Facebook4J y otras librerías de código libre, donde pueda realizar cuatro operaciones básicas: obtener el newsfeed, obtener el wall y poder guardar la salida en un archivo; publicar estado y publicar un link. 
+**Exportar .jar**  
+1. Dar clic derecho al proyecto en Eclipse.
+2. Seleccionar `Export -> Runnable JAR file`.
 
-Créditos - Jose Manuel Lopez Lujan jm66
- 
-Licencia - MIT License
+**Ejecutar .jar**  
+1. Abrir la carpeta `bin`.
+2. Abrir la terminal (*utilizar privilegios de administrador en Windows*).
+3. Navegar a la carpeta `fbcmd4j/bin` donde se encuentra el archivo `fbcmd4j.jar`.
+4. Ejecutar el comando `java -jar fbcmd4j.jar`.
+
+
+## Uso
+**Configurar la cuenta de Facebook**   
+1. Seleccionar la opción 0 `Configurar Cliente`.
+2. Ir a la página web que se muestra.
+3. Escribir el código que generó la aplicación.
+4. Aceptar y dar permisos a la aplicación.
+
+**Obtener el NewsFeed**   
+1. Seleccionar la opción 1 `NewsFeed`.
+2. Escribir 'Si' en caso de querer guardar los posts en un archivo.
+	* Escribir el número de posts a guardar.
+
+**Obtener el Wall**   
+1. Seleccionar la opción 2 `Wall`.
+2. Escribir 'Si' en caso de querer guardar los posts en un archivo.
+	* Escribir el número de posts a guardar.
+
+**Publicar un Estado**   
+1. Seleccionar la opción 3 `Publicar Estado`.
+2. Escribir el estado deseado.
+
+**Publicar un Link**   
+1. Seleccionar la opción 4 `Publicar Link`.
+2. Escribir el link deseado.
+
+
+## Créditos
+Desarrollado por:
+Jose Manuel Lopez Lujan jm66
+- **2676320** Christian Hernandez Dorantes
+
+
+## Licencia
+ MIT License
