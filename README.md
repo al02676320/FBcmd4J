@@ -1,10 +1,10 @@
-# fbcmd4j
-Cliente de Facebook en línea de comando para la evidencia del curso "**Computación en Java CS13303**"
+# Fbcmd4j
+Cliente de Facebook en línea de comando "**Computación en Java**"
 
 ## Instalación
 **Clonar el repositorio**  
 ```
-git clone https://github.com/DavidServn/fbcmd4j.git
+git clone https://github.com/al02676320/Fbcmd4j.git
 ```
 
 **Importar a Eclipse**  
@@ -50,8 +50,8 @@ git clone https://github.com/DavidServn/fbcmd4j.git
 
 ## Créditos
 Desarrollado por:
-- **2686599** David Elí Servín Peña
+- **Christian Hernandez Dorantes - 2676320** 
 
 
 ## Licencia
-El código está disponible bajo la licencia **GNU GPL-3.0**. Consulte el archivo LICENSE en la raíz del proyecto para más información.
+MIT License
