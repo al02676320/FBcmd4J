@@ -1370,3 +1370,5 @@
 2017-11-27 05:54:49.162 [main] ERROR org.fbcmd4j.Main - Error validating access token: The session is invalid because the user logged out.
 2017-11-27 05:55:59.703 [main] INFO  org.fbcmd4j.Main - Iniciando app
 2017-11-27 00:01:57.846 [main] INFO  org.fbcmd4j.Main - Iniciando app
+
+
