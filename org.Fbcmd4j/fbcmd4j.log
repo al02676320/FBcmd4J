@@ -1360,3 +1360,5 @@
 2017-11-27 03:11:05.185 [main] INFO  org.fbcmd4j.Main - Iniciando app
 2017-11-26 23:35:56.231 [main] INFO  org.fbcmd4j.Main - Iniciando app
 2017-11-27 01:01:59.630 [main] ERROR org.fbcmd4j.Main - java.util.NoSuchElementException
+
+
