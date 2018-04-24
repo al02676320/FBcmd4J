@@ -38,6 +38,7 @@ git clone https://github.com/al02676320/Fbcmd4j.git
 1. Seleccionar la opción 2 `Wall`.
 2. Escribir 'Si' en caso de querer guardar los posts en un archivo.
 	* Escribir el número de posts a guardar.
+	
 
 **Publicar un Estado**   
 1. Seleccionar la opción 3 `Publicar Estado`.
